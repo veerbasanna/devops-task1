@@ -1,1 +1,28 @@
 created stage branch and pusghing data
+
+   40  git init
+   41  cd task1
+   42  ls
+   43  ls -a
+   44  git add test10.txt
+   45  git status
+   46  git commit -m "created task1"
+   47  git status
+   48  git branch
+   49  git push -M main
+   50  git branch
+   51  git remote add origin https://github.com/veerbasanna/devops-task1.git
+   52  git branch -M main
+   53  git push -u origin main
+   54  git branch
+   55  git checkout -b staging
+   56  git banch
+   57  git branch
+   58  touch test12.txt
+   59  vi test12.txt
+   60*
+   61  git branch commit -m 'added files in stage"
+   62  git branch commit -m 'added files in stage'
+   63  git commit -m "created task121"
+   64  git push -u origin staging
+   65  history
